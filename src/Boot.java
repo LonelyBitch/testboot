@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Boot {
 
@@ -14,6 +15,7 @@ public class Boot {
 
         System.out.println(11);
         ArrayList<Integer> list = new ArrayList<>();
+        HashMap<String,String> hash = new HashMap<>();
         //
     }
 }
