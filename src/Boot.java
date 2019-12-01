@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Boot {
 
     public static void main(String[] args) {
@@ -12,5 +14,6 @@ public class Boot {
 
         System.out.println(11);
         ArrayList<Integer> list = new ArrayList<>();
+        //
     }
 }
