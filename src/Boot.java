@@ -7,5 +7,6 @@ public class Boot {
         System.out.println("tody");
         System.out.println("dddddd");
         System.out.println("dddd");
+        System.out.println("1");
     }
 }
